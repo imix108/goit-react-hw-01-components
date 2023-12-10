@@ -14,3 +14,7 @@ code {
     monospace;
 }
 
+.root {
+  background-color:lightgray;
+  padding-top: 20px;
+}
